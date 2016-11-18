@@ -3,6 +3,6 @@ applications:
   memory: 1024M
   instances: 1
   domain: mybluemix.net
-  name: InfoBeacons
-  host: infobeacons
+  name: InfoBeacons2
+  host: infobeacons2
   disk_quota: 1024M
